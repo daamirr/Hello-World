@@ -1,2 +1,3 @@
 # Hello-World
-I'm learning 
+I'm Damir "/n"
+I'm learning GitHub whit offical document
